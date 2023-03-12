@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @King-Juliet
-- 👀 I’m interested in data science, business analytics 
-- 🌱 I’m currently learning python for data science 
-- 💞️ I’m looking to collaborate on data analytics project
+- 👀 I’m interested in data science, business analytics and healthcare  
+- 🌱 My current skillset include, Python, SQL, Microsoft Power BI. 
+- 💞️ I’m looking to collaborate on data analytics projects.
 - 📫 How to reach me chibuokejuliet@gmail.com 
 
 <!---
