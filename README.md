@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @King-Juliet
-- 👀 I’m interested in data science, business analytics 
-- 🌱 I’m currently learning python for data science 
-- 💞️ I’m looking to collaborate on data analytics project
+- 👀 I’m a data engineer with strong analytics mindset
+- 🌱 I speak Python and SQL
+- ☘️ I have experience with Apache Airflow, data warehousing, data object storage solutions, database, data visualization tools. 
+- 💞️ I’m looking forward to collaborating with you on solving problems using my data engineering and data analytics skillset. 
 - 📫 How to reach me chibuokejuliet@gmail.com 
 
 <!---
