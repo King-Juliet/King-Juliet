@@ -4,7 +4,9 @@
 
 - 💞️ I enjoy learning new things.
    
-- 💞️ I’m looking forward to collaborating with you on building solutions and solving problems using my data engineering and data analytics skillset. 
+- 💞️ I’m looking forward to collaborating with you on building solutions and solving problems using my data engineering and data analytics skillset.
+
+- Articles written : medium.com/@chibuokejuliet
 
 - 📫 How to reach me chibuokejuliet@gmail.com 
 
